@@ -2,6 +2,7 @@ import { createApp } from 'vue'
 import './style.css'
 import App from './App.vue'
 import { createPinia } from 'pinia'
+
 import router from './router'
 if (!navigator.geolocation) {
     alert('tu navegador no soporta geolocation');
