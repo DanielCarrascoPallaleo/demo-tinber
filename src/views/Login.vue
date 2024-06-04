@@ -3,6 +3,9 @@
     <div class="flex justify-center h-screen">
         <div class="mx-[41px] flex flex-col items-start w-full mt-[20px] justify-between">
             <div class="w-full">           
+                <div class="mb-[21px]">
+                    <img src="../assets/arrow-back-fill.svg">
+                </div>    
                 <div class="mb-[68px]">
                     <h1 class="text-primary text-[25px] font-bold">Inicio de sesión</h1>
                     <h2 class="text-gray text-[16px]">¡Qué estupendo tenerte de vuelta!</h2>
